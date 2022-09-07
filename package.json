@@ -1,0 +1,26 @@
+{
+  "name": "usr_parser_notify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lollotek/USR_Parser_notify.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lollotek/USR_Parser_notify/issues"
+  },
+  "homepage": "https://github.com/lollotek/USR_Parser_notify#readme",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.2",
+    "twilio": "^3.82.0"
+  }
+}
